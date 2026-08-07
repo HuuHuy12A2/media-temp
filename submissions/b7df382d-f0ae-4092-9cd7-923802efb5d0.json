@@ -1,0 +1,65 @@
+{
+  "id": "b7df382d-f0ae-4092-9cd7-923802efb5d0",
+  "name": "Aanh-12a2-nam-tapthee.jpg",
+  "originalName": "Aanh-12a2--nam-tapthee.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 707022,
+  "tags": [
+    "12A2",
+    "Nam"
+  ],
+  "analysis": [
+    {
+      "keyword": "Aanh",
+      "status": "suggestion",
+      "tag": null,
+      "suggestions": [
+        {
+          "name": "Anh",
+          "key": "anh",
+          "tokens": [
+            "anh"
+          ],
+          "score": 0.75
+        }
+      ],
+      "source": "fuzzy"
+    },
+    {
+      "keyword": "12a2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "nam",
+      "status": "matched",
+      "tag": "Nam",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "tapthee",
+      "status": "suggestion",
+      "tag": null,
+      "suggestions": [
+        {
+          "name": "Tap The",
+          "key": "tap-the",
+          "tokens": [
+            "tap",
+            "the"
+          ],
+          "score": 0.8571428571428572
+        }
+      ],
+      "source": "fuzzy"
+    }
+  ],
+  "filePath": "files/b7df382d-f0ae-4092-9cd7-923802efb5d0-Aanh-12a2-nam-tapthee.jpg",
+  "createdAt": "2026-08-07T13:33:53.904Z",
+  "status": "pending"
+}
