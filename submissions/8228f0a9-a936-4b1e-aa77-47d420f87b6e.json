@@ -1,0 +1,40 @@
+{
+  "id": "8228f0a9-a936-4b1e-aa77-47d420f87b6e",
+  "name": "12a2-anh-tapthe.jpg",
+  "originalName": "12a2-anh-tapthe-.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 15103681,
+  "tags": [
+    "12A2",
+    "Anh",
+    "Tap The"
+  ],
+  "analysis": [
+    {
+      "keyword": "12a2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "tapthe",
+      "status": "matched",
+      "tag": "Tap The",
+      "score": 1,
+      "source": "normalized"
+    }
+  ],
+  "filePath": "files/8228f0a9-a936-4b1e-aa77-47d420f87b6e-12a2-anh-tapthe.jpg",
+  "createdAt": "2026-09-02T09:04:16.049Z",
+  "status": "pending"
+}
