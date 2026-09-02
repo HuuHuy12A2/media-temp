@@ -1,0 +1,24 @@
+{
+  "id": "cb03a4a4-4f6d-437a-bdcc-54ec8a13f9f3",
+  "name": "hinh-nen2_edited.jpg",
+  "originalName": "hinh nen2_edited.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 445983,
+  "tags": [
+    "Hinh-Nen2-Edited"
+  ],
+  "analysis": [
+    {
+      "keyword": "hinh nen2_edited",
+      "status": "new",
+      "tag": "Hinh-Nen2-Edited",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/cb03a4a4-4f6d-437a-bdcc-54ec8a13f9f3-hinh-nen2_edited.jpg",
+  "createdAt": "2026-09-02T16:43:28.451Z",
+  "status": "pending"
+}
