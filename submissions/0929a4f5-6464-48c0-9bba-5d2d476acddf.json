@@ -1,0 +1,24 @@
+{
+  "id": "0929a4f5-6464-48c0-9bba-5d2d476acddf",
+  "name": "inbound6206555136633029869.mp4",
+  "originalName": "inbound6206555136633029869.mp4",
+  "type": "video",
+  "extension": "mp4",
+  "mimeType": "video/mp4",
+  "size": 15896087,
+  "tags": [
+    "Inbound6206555136633029869"
+  ],
+  "analysis": [
+    {
+      "keyword": "inbound6206555136633029869",
+      "status": "new",
+      "tag": "Inbound6206555136633029869",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/0929a4f5-6464-48c0-9bba-5d2d476acddf-inbound6206555136633029869.mp4",
+  "createdAt": "2026-09-20T06:48:33.844Z",
+  "status": "pending"
+}
