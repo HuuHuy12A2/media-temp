@@ -1,0 +1,24 @@
+{
+  "id": "a05e379b-b493-4351-930c-1e7939c904aa",
+  "name": "inbound1053761853026750876.jpg",
+  "originalName": "inbound1053761853026750876.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 233257,
+  "tags": [
+    "Inbound1053761853026750876"
+  ],
+  "analysis": [
+    {
+      "keyword": "inbound1053761853026750876",
+      "status": "new",
+      "tag": "Inbound1053761853026750876",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/a05e379b-b493-4351-930c-1e7939c904aa-inbound1053761853026750876.jpg",
+  "createdAt": "2026-09-20T06:36:11.616Z",
+  "status": "pending"
+}
