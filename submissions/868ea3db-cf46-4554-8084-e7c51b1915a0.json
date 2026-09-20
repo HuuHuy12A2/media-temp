@@ -1,0 +1,24 @@
+{
+  "id": "868ea3db-cf46-4554-8084-e7c51b1915a0",
+  "name": "inbound1405893961149172019.jpg",
+  "originalName": "inbound1405893961149172019.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 271483,
+  "tags": [
+    "Inbound1405893961149172019"
+  ],
+  "analysis": [
+    {
+      "keyword": "inbound1405893961149172019",
+      "status": "new",
+      "tag": "Inbound1405893961149172019",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/868ea3db-cf46-4554-8084-e7c51b1915a0-inbound1405893961149172019.jpg",
+  "createdAt": "2026-09-20T06:36:14.910Z",
+  "status": "pending"
+}
