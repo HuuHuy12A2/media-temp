@@ -1,0 +1,56 @@
+{
+  "id": "649be9c2-4cc2-4023-9a67-60e5a7cf78dc",
+  "name": "Funny-anh-Nam-12A2-Canhan.jpg",
+  "originalName": "1000593822.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 281912,
+  "tags": [
+    "Funny",
+    "Anh",
+    "Nam",
+    "12A2",
+    "Ca Nhan"
+  ],
+  "analysis": [
+    {
+      "keyword": "Funny",
+      "status": "matched",
+      "tag": "Funny",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "Nam",
+      "status": "matched",
+      "tag": "Nam",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "12A2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "Canhan",
+      "status": "matched",
+      "tag": "Ca Nhan",
+      "score": 1,
+      "source": "normalized"
+    }
+  ],
+  "filePath": "files/649be9c2-4cc2-4023-9a67-60e5a7cf78dc-Funny-anh-Nam-12A2-Canhan.jpg",
+  "createdAt": "2026-09-24T06:04:16.032Z",
+  "status": "pending"
+}
