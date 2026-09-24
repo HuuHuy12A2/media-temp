@@ -1,0 +1,56 @@
+{
+  "id": "f478f993-58d8-4e91-a9a0-77705a98d42c",
+  "name": "Nu-cAnhan-Anh-12a2-funny.jpg",
+  "originalName": "1000593825.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 164541,
+  "tags": [
+    "Nu",
+    "Ca Nhan",
+    "Anh",
+    "12A2",
+    "Funny"
+  ],
+  "analysis": [
+    {
+      "keyword": "Nu",
+      "status": "matched",
+      "tag": "Nu",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "cAnhan",
+      "status": "matched",
+      "tag": "Ca Nhan",
+      "score": 1,
+      "source": "normalized"
+    },
+    {
+      "keyword": "Anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "12a2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "funny",
+      "status": "matched",
+      "tag": "Funny",
+      "score": 1,
+      "source": "exact"
+    }
+  ],
+  "filePath": "files/f478f993-58d8-4e91-a9a0-77705a98d42c-Nu-cAnhan-Anh-12a2-funny.jpg",
+  "createdAt": "2026-09-24T06:04:23.800Z",
+  "status": "pending"
+}
