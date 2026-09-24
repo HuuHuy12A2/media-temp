@@ -1,0 +1,57 @@
+{
+  "id": "4d938cbf-e6db-4aca-b341-c5f54e9d5e19",
+  "name": "Anh-Nam-12a2-CaNHann.jpg",
+  "originalName": "1000593831.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 505428,
+  "tags": [
+    "Anh",
+    "Nam",
+    "12A2"
+  ],
+  "analysis": [
+    {
+      "keyword": "Anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "Nam",
+      "status": "matched",
+      "tag": "Nam",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "12a2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "CaNHann",
+      "status": "suggestion",
+      "tag": null,
+      "suggestions": [
+        {
+          "name": "Ca Nhan",
+          "key": "ca-nhan",
+          "tokens": [
+            "ca",
+            "nhan"
+          ],
+          "score": 0.8571428571428572
+        }
+      ],
+      "source": "fuzzy"
+    }
+  ],
+  "filePath": "files/4d938cbf-e6db-4aca-b341-c5f54e9d5e19-Anh-Nam-12a2-CaNHann.jpg",
+  "createdAt": "2026-09-24T06:04:50.439Z",
+  "status": "pending"
+}
