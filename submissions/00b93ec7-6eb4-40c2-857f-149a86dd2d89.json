@@ -1,0 +1,32 @@
+{
+  "id": "00b93ec7-6eb4-40c2-857f-149a86dd2d89",
+  "name": "Anh-12a2.jpg",
+  "originalName": "1000593824.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 478399,
+  "tags": [
+    "Anh",
+    "12A2"
+  ],
+  "analysis": [
+    {
+      "keyword": "Anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "12a2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    }
+  ],
+  "filePath": "files/00b93ec7-6eb4-40c2-857f-149a86dd2d89-Anh-12a2.jpg",
+  "createdAt": "2026-09-24T06:04:31.646Z",
+  "status": "pending"
+}
