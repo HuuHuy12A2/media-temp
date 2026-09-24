@@ -1,0 +1,56 @@
+{
+  "id": "5f6c51d5-6e2e-4511-a499-2b23727c7432",
+  "name": "10a22-anh-Nam-Canhan.jpg",
+  "originalName": "1000593829.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 114009,
+  "tags": [
+    "Anh",
+    "Nam",
+    "Ca Nhan"
+  ],
+  "analysis": [
+    {
+      "keyword": "10a22",
+      "status": "suggestion",
+      "tag": null,
+      "suggestions": [
+        {
+          "name": "10A2",
+          "key": "10a2",
+          "tokens": [
+            "10a2"
+          ],
+          "score": 0.8
+        }
+      ],
+      "source": "fuzzy"
+    },
+    {
+      "keyword": "anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "Nam",
+      "status": "matched",
+      "tag": "Nam",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "Canhan)",
+      "status": "matched",
+      "tag": "Ca Nhan",
+      "score": 1,
+      "source": "normalized"
+    }
+  ],
+  "filePath": "files/5f6c51d5-6e2e-4511-a499-2b23727c7432-10a22-anh-Nam-Canhan.jpg",
+  "createdAt": "2026-09-24T06:04:38.929Z",
+  "status": "pending"
+}
