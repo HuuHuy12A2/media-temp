@@ -1,0 +1,48 @@
+{
+  "id": "39f9d19d-1224-4355-b57e-1d587f14622a",
+  "name": "Anh-Nu-12a2-CaNhaN.jpg",
+  "originalName": "1000593827.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 328942,
+  "tags": [
+    "Anh",
+    "Nu",
+    "12A2",
+    "Ca Nhan"
+  ],
+  "analysis": [
+    {
+      "keyword": "Anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "Nu",
+      "status": "matched",
+      "tag": "Nu",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "12a2",
+      "status": "matched",
+      "tag": "12A2",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "CaNhaN",
+      "status": "matched",
+      "tag": "Ca Nhan",
+      "score": 1,
+      "source": "normalized"
+    }
+  ],
+  "filePath": "files/39f9d19d-1224-4355-b57e-1d587f14622a-Anh-Nu-12a2-CaNhaN.jpg",
+  "createdAt": "2026-09-24T06:04:42.204Z",
+  "status": "pending"
+}
