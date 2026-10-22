@@ -1,0 +1,48 @@
+{
+  "id": "6f9b246b-e4ed-42cc-aff4-9893ad2f23ec",
+  "name": "Anh-DH-nam-canhan.jpg",
+  "originalName": "1000592424.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 5383949,
+  "tags": [
+    "Anh",
+    "Dh",
+    "Nam",
+    "Ca Nhan"
+  ],
+  "analysis": [
+    {
+      "keyword": "Anh",
+      "status": "matched",
+      "tag": "Anh",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "DH",
+      "status": "new",
+      "tag": "Dh",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "nam",
+      "status": "matched",
+      "tag": "Nam",
+      "score": 1,
+      "source": "exact"
+    },
+    {
+      "keyword": "canhan",
+      "status": "matched",
+      "tag": "Ca Nhan",
+      "score": 1,
+      "source": "normalized"
+    }
+  ],
+  "filePath": "files/6f9b246b-e4ed-42cc-aff4-9893ad2f23ec-Anh-DH-nam-canhan.jpg",
+  "createdAt": "2026-10-22T09:24:23.084Z",
+  "status": "pending"
+}
