@@ -1,0 +1,24 @@
+{
+  "id": "38c17d02-193c-423a-8a7c-bba7ebb3a515",
+  "name": "mockup-2.png",
+  "originalName": "mockup 2.png",
+  "type": "image",
+  "extension": "png",
+  "mimeType": "image/png",
+  "size": 2555180,
+  "tags": [
+    "Mockup-2"
+  ],
+  "analysis": [
+    {
+      "keyword": "mockup 2",
+      "status": "new",
+      "tag": "Mockup-2",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/38c17d02-193c-423a-8a7c-bba7ebb3a515-mockup-2.png",
+  "createdAt": "2026-10-31T05:17:22.681Z",
+  "status": "pending"
+}
