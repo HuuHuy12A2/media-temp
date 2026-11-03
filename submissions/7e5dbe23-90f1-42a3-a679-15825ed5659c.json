@@ -1,0 +1,24 @@
+{
+  "id": "7e5dbe23-90f1-42a3-a679-15825ed5659c",
+  "name": "1000595400.jpg",
+  "originalName": "1000595400.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 573020,
+  "tags": [
+    "1000595400"
+  ],
+  "analysis": [
+    {
+      "keyword": "1000595400",
+      "status": "new",
+      "tag": "1000595400",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/7e5dbe23-90f1-42a3-a679-15825ed5659c-1000595400.jpg",
+  "createdAt": "2026-11-03T10:56:46.901Z",
+  "status": "pending"
+}
