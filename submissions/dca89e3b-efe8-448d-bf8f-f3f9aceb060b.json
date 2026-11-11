@@ -1,0 +1,24 @@
+{
+  "id": "dca89e3b-efe8-448d-bf8f-f3f9aceb060b",
+  "name": "1000595716.jpg",
+  "originalName": "1000595716.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 6168528,
+  "tags": [
+    "1000595716"
+  ],
+  "analysis": [
+    {
+      "keyword": "1000595716",
+      "status": "new",
+      "tag": "1000595716",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/dca89e3b-efe8-448d-bf8f-f3f9aceb060b-1000595716.jpg",
+  "createdAt": "2026-11-11T14:55:10.072Z",
+  "status": "pending"
+}
