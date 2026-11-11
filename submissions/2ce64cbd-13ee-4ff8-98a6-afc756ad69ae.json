@@ -1,0 +1,24 @@
+{
+  "id": "2ce64cbd-13ee-4ff8-98a6-afc756ad69ae",
+  "name": "1000595043.jpg",
+  "originalName": "1000595043.jpg",
+  "type": "image",
+  "extension": "jpg",
+  "mimeType": "image/jpeg",
+  "size": 80061,
+  "tags": [
+    "1000595043"
+  ],
+  "analysis": [
+    {
+      "keyword": "1000595043",
+      "status": "new",
+      "tag": "1000595043",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/2ce64cbd-13ee-4ff8-98a6-afc756ad69ae-1000595043.jpg",
+  "createdAt": "2026-11-11T14:57:50.592Z",
+  "status": "pending"
+}
