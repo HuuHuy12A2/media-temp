@@ -1,0 +1,56 @@
+{
+  "id": "c620f331-c192-44af-b67a-2b1346c920f4",
+  "name": "temp_image_AAE906D4-500A-4063-B579-C0B7FB6C3E4C.webp",
+  "originalName": "temp_image_AAE906D4-500A-4063-B579-C0B7FB6C3E4C.webp",
+  "type": "image",
+  "extension": "webp",
+  "mimeType": "image/webp",
+  "size": 64428,
+  "tags": [
+    "Temp-Image-Aae906d4",
+    "500a",
+    "4063",
+    "B579",
+    "C0b7fb6c3e4c"
+  ],
+  "analysis": [
+    {
+      "keyword": "temp_image_AAE906D4",
+      "status": "new",
+      "tag": "Temp-Image-Aae906d4",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "500A",
+      "status": "new",
+      "tag": "500a",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "4063",
+      "status": "new",
+      "tag": "4063",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "B579",
+      "status": "new",
+      "tag": "B579",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "C0B7FB6C3E4C",
+      "status": "new",
+      "tag": "C0b7fb6c3e4c",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/c620f331-c192-44af-b67a-2b1346c920f4-temp_image_AAE906D4-500A-4063-B579-C0B7FB6C3E4C.webp",
+  "createdAt": "2026-11-13T11:09:49.350Z",
+  "status": "pending"
+}
