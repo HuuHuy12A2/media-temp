@@ -1,0 +1,24 @@
+{
+  "id": "f30584a0-fcf5-4982-b219-4b28f78dfea1",
+  "name": "v09044g40000cvl5k7nog65rr1deo170.mp4",
+  "originalName": "v09044g40000cvl5k7nog65rr1deo170.mp4",
+  "type": "video",
+  "extension": "mp4",
+  "mimeType": "video/mp4",
+  "size": 1723983,
+  "tags": [
+    "V09044g40000cvl5k7nog65rr1deo170"
+  ],
+  "analysis": [
+    {
+      "keyword": "v09044g40000cvl5k7nog65rr1deo170",
+      "status": "new",
+      "tag": "V09044g40000cvl5k7nog65rr1deo170",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/f30584a0-fcf5-4982-b219-4b28f78dfea1-v09044g40000cvl5k7nog65rr1deo170.mp4",
+  "createdAt": "2026-11-13T11:09:39.700Z",
+  "status": "pending"
+}
