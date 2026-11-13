@@ -1,0 +1,56 @@
+{
+  "id": "ff64b421-9772-4f9e-b80a-f55cddfcf2e0",
+  "name": "temp_image_21F05B89-3358-4E91-AB0D-CA172B337F85.jpeg",
+  "originalName": "temp_image_21F05B89-3358-4E91-AB0D-CA172B337F85.jpeg",
+  "type": "image",
+  "extension": "jpeg",
+  "mimeType": "image/jpeg",
+  "size": 437472,
+  "tags": [
+    "Temp-Image-21f05b89",
+    "3358",
+    "4e91",
+    "Ab0d",
+    "Ca172b337f85"
+  ],
+  "analysis": [
+    {
+      "keyword": "temp_image_21F05B89",
+      "status": "new",
+      "tag": "Temp-Image-21f05b89",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "3358",
+      "status": "new",
+      "tag": "3358",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "4E91",
+      "status": "new",
+      "tag": "4e91",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "AB0D",
+      "status": "new",
+      "tag": "Ab0d",
+      "suggestions": [],
+      "source": "new"
+    },
+    {
+      "keyword": "CA172B337F85",
+      "status": "new",
+      "tag": "Ca172b337f85",
+      "suggestions": [],
+      "source": "new"
+    }
+  ],
+  "filePath": "files/ff64b421-9772-4f9e-b80a-f55cddfcf2e0-temp_image_21F05B89-3358-4E91-AB0D-CA172B337F85.jpeg",
+  "createdAt": "2026-11-13T11:09:45.022Z",
+  "status": "pending"
+}
